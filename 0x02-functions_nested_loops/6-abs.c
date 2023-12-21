@@ -4,7 +4,7 @@
  * @c: the number to be computed
  * Return: Absolute value of number or zero
  */
-int _isalpha(int c)
+int _abs(int c)
 {
 if (c > 0)
 {
